@@ -73,3 +73,7 @@ Much more in my repository
 ## ✨ Chapter 7: Conclusion
 
 > Playing with **Python** and teaching **Python** was definetly fun and having this courses makes me relive that moment all over again. Using **Visual Studio Code** once again. The *dopamine* rush when the assignment's program finally runs and everything works smoothly. I still love playing with programming language and i think i always will.
+
+#### For a proper look i have uploaded this markdown file on github 
+
+[Access Link](https://github.com/FlyAbove/assignment)
